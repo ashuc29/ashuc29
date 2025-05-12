@@ -1,6 +1,16 @@
 ### 👋 Hi there, I'm Ashwini Chandrahasa
 
-I'm a Frontend Developer working with **Vue.js/Nuxt** at Checkout Charlie. Currently building feature-rich, scalable UIs in a multi-brand monorepo environment. I’m passionate about product thinking, collaboration, and turning business needs into real, usable features.
+Creative **Frontend Developer** working with Vue/Nuxt in a fast-paced product team. Building scalable UI for multi-brand e-commerce platforms, and currently shifting toward **IT Product Management** with strong developer roots.
+
+---
+
+### 🛠 Tech Stack
+
+https://v2.nuxt.com/docs/get-started/installation
+https://vueschool.io/freeweekend/
+https://v2.tailwindcss.com/docs/guides/nuxtjs
+https://vuejs.org/guide/essentials/reactivity-fundamentals.html
+https://nuxt.com/docs/getting-started/introduction
 
 ---
 
