@@ -15,7 +15,7 @@ https://nuxt.com/docs/getting-started/introduction
 ---
 
 ### 🛠 Skills
-- **Frontend:** Vue.js, Nuxt.js, Tailwind CSS, HTML5, JavaScript (ES6+)
+- **Frontend:** React,Vue.js, Nuxt.js, Angular, Tailwind CSS, HTML5, JavaScript (ES6+)
 - **State Management:** Pinia, Vuex
 - **Tools:** Git, GitHub, Jira, VS Code
 - **Agile & Collaboration:** Sprint planning, story writing, QA coordination
